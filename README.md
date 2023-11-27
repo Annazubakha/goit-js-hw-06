@@ -1,1 +1,1 @@
-# goit-js-hw-06
+https://annazubakha.github.io/goit-js-hw-06/
